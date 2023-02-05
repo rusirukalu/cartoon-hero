@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+header{
+    background-color: crimson;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+h1, h2{
+    font-family: 'Roboto Mono', monospace;
+}
+header h1{
+    color: aliceblue;
+    font-size: 50px;
+}
+header img{
+    border-radius: 150px;
+    border: 15px solid white;
+}
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+main img{
+    max-width: 100%;
+}
+h2{
+    font-size: 35px;
+    color: #e70c19;
+    margin: 40px 0 10px;
+}
+a{
+  color: #e70c19;  
+}
+a:hover{
+    color: wheat;
+    background-color: blueviolet;
+}
+footer{
+    background-color: crimson;
+    text-align: center;
+    color: wheat;
+    padding: 50px;
+
+}
+footer p{
+    margin: 0;
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
+}
+p.caption{
+    color: grey;
+    font-style: italic;
+    margin-top: 0;
+}
