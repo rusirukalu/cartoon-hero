@@ -57,10 +57,6 @@ footer p{
 footer a{
     color: white;
 }
-footer a:hover{
-    opacity: .5;
-    background-color: transparent;
-}
 p.caption{
     color: grey;
     font-style: italic;
